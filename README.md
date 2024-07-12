@@ -1,3 +1,3 @@
 # Portfolio
 This is the personal portfolio
-Auther- Abdul Saboor
+Author- Abdul Saboor
