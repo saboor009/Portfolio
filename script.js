@@ -4,3 +4,8 @@ function toggleMenu(){
     menu.classList.toggle("open")
     icon.classList.toggle("open")
 }
+
+$(".card").click(function () {
+    $(".card").removeClass("active");
+    $(this).addClass("active");
+  });
